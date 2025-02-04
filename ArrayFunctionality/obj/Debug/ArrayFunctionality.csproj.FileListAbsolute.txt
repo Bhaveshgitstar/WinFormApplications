@@ -1,0 +1,7 @@
+C:\Users\bsharma6\source\repos\FormAssignment2\ArrayFunctionality\obj\Debug\ArrayFunctionality.csproj.AssemblyReference.cache
+C:\Users\bsharma6\source\repos\FormAssignment2\ArrayFunctionality\obj\Debug\ArrayFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\bsharma6\source\repos\FormAssignment2\ArrayFunctionality\bin\Debug\ArrayFunctionality.exe.config
+C:\Users\bsharma6\source\repos\FormAssignment2\ArrayFunctionality\bin\Debug\ArrayFunctionality.exe
+C:\Users\bsharma6\source\repos\FormAssignment2\ArrayFunctionality\bin\Debug\ArrayFunctionality.pdb
+C:\Users\bsharma6\source\repos\FormAssignment2\ArrayFunctionality\obj\Debug\ArrayFunctionality.exe
+C:\Users\bsharma6\source\repos\FormAssignment2\ArrayFunctionality\obj\Debug\ArrayFunctionality.pdb

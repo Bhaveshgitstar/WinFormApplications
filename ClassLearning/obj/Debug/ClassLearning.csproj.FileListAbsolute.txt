@@ -1,0 +1,7 @@
+C:\Users\bsharma6\source\repos\FormAssignment2\ClassLearning\obj\Debug\ClassLearning.csproj.AssemblyReference.cache
+C:\Users\bsharma6\source\repos\FormAssignment2\ClassLearning\obj\Debug\ClassLearning.csproj.CoreCompileInputs.cache
+C:\Users\bsharma6\source\repos\FormAssignment2\ClassLearning\bin\Debug\ClassLearning.exe.config
+C:\Users\bsharma6\source\repos\FormAssignment2\ClassLearning\bin\Debug\ClassLearning.exe
+C:\Users\bsharma6\source\repos\FormAssignment2\ClassLearning\bin\Debug\ClassLearning.pdb
+C:\Users\bsharma6\source\repos\FormAssignment2\ClassLearning\obj\Debug\ClassLearning.exe
+C:\Users\bsharma6\source\repos\FormAssignment2\ClassLearning\obj\Debug\ClassLearning.pdb

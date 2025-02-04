@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormAssignment2", "FormAssignment2\FormAssignment2.csproj", "{3AB3EC1D-3259-4A12-A89C-15C497B9DA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFunctions", "StringFunctions\StringFunctions.csproj", "{B8F33095-818A-4E54-8543-C2BF183F603F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayFunctionality", "ArrayFunctionality\ArrayFunctionality.csproj", "{F646669E-A6C2-4E9C-8888-2D262ED11381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{97496CF3-42EC-478B-8A18-3B1FB4BBBC0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLearning", "ClassLearning\ClassLearning.csproj", "{28646510-4CD8-43AF-B234-46CCED8DE9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDelgateTry", "EventDelgateTry\EventDelgateTry.csproj", "{79BD3D67-B8E9-4CDB-9182-5F96BA8BD010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAssignment", "CaculatorAssignment\CalculatorAssignment.csproj", "{2DAFCADF-9810-45F8-9DC1-8768CB2E4043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB3EC1D-3259-4A12-A89C-15C497B9DA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB3EC1D-3259-4A12-A89C-15C497B9DA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB3EC1D-3259-4A12-A89C-15C497B9DA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB3EC1D-3259-4A12-A89C-15C497B9DA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F33095-818A-4E54-8543-C2BF183F603F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F33095-818A-4E54-8543-C2BF183F603F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F33095-818A-4E54-8543-C2BF183F603F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F33095-818A-4E54-8543-C2BF183F603F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F646669E-A6C2-4E9C-8888-2D262ED11381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F646669E-A6C2-4E9C-8888-2D262ED11381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F646669E-A6C2-4E9C-8888-2D262ED11381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F646669E-A6C2-4E9C-8888-2D262ED11381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97496CF3-42EC-478B-8A18-3B1FB4BBBC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97496CF3-42EC-478B-8A18-3B1FB4BBBC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97496CF3-42EC-478B-8A18-3B1FB4BBBC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97496CF3-42EC-478B-8A18-3B1FB4BBBC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28646510-4CD8-43AF-B234-46CCED8DE9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28646510-4CD8-43AF-B234-46CCED8DE9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28646510-4CD8-43AF-B234-46CCED8DE9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28646510-4CD8-43AF-B234-46CCED8DE9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BD3D67-B8E9-4CDB-9182-5F96BA8BD010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BD3D67-B8E9-4CDB-9182-5F96BA8BD010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BD3D67-B8E9-4CDB-9182-5F96BA8BD010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BD3D67-B8E9-4CDB-9182-5F96BA8BD010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAFCADF-9810-45F8-9DC1-8768CB2E4043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAFCADF-9810-45F8-9DC1-8768CB2E4043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAFCADF-9810-45F8-9DC1-8768CB2E4043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAFCADF-9810-45F8-9DC1-8768CB2E4043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\bin\Debug\CaculatorAssignment.exe.config
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\bin\Debug\CaculatorAssignment.exe
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\bin\Debug\CaculatorAssignment.pdb
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\obj\Debug\CalculatorAssignment.csproj.AssemblyReference.cache
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\obj\Debug\CaculatorAssignment.Properties.Resources.resources
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\obj\Debug\CalculatorAssignment.csproj.GenerateResource.cache
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\obj\Debug\CalculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\obj\Debug\CaculatorAssignment.exe
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\obj\Debug\CaculatorAssignment.pdb
+C:\Users\bsharma6\source\repos\FormAssignment2\CaculatorAssignment\obj\Debug\CalculatorAssignment.Form1.resources
